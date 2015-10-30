@@ -1038,12 +1038,13 @@
 /* One */
 
 	#one:before {
+	    background-image："images/pic2.jpg";
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 15em;
+		height: 5em;
 		width: 100%;
 	}
 
